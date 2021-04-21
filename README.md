@@ -1,1 +1,1 @@
-queue manage system
+queue manage
